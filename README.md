@@ -1,11 +1,7 @@
 ### Hi there 👋 My self introduction 👇    
 
 
-<p style="height:0">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=xingcxb&show_icons=true&theme=buefy" title="Github Stats" alt="Github Stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-  </a>
-</p>
+
 
 
 - 🔭 I’m currently working on `Go` `Vue3` `Java` `JavaScript`
@@ -13,6 +9,7 @@
 - 😄 Pronouns: 一件一件小事，累积起来，就形成了大事
 - 🍊 Fun fact: Waiting for life is waiting for death
 
+[![top Langs](https://github-readme-stats.vercel.app/api?username=xingcxb&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingcxb&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
