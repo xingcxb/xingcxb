@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning `Go` `Vue3`
 - 😄 Pronouns: 一件一件小事，累积起来，就形成了大事
 - 🍊 Fun fact: Waiting for life is waiting for death
+- 🕊 Site: https://xingcxb.github.io
 
 [![top Langs](https://github-readme-stats.vercel.app/api?username=xingcxb&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingcxb&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
