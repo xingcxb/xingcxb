@@ -34,7 +34,7 @@
   <a href="https://github.com/xingcxb/ToDb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingcxb&repo=ToDb&&theme=cobalt" title="standard-repository" alt="standard-repository" />
   </a>
-<!--   <a href="https://github.com/xingcxb/symbol_note">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingcxb&repo=symbol_note&&theme=cobalt" title="wails-template-vue" alt="wails-template-vue" />
-  </a> -->
+  <a href="https://github.com/xingcxb/goKit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xingcxb&repo=goKit&&theme=cobalt" title="standard-repository" alt="standard-repository" />
+  </a>
 </p>
