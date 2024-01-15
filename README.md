@@ -15,9 +15,6 @@
 
 
 <p align="left">
-    <a href="https://weibo.com/xingcxb">
-    <img src="https://img.shields.io/badge/Weibo-xingcxb-e31827?style=for-the-badge&logo=sinaweibo&logoColor=e31827" title="Click to visit my Weibo homepage" alt="Weibo" />
-  </a>
     <a href="https://www.zhihu.com/people/easymbol">
     <img src="https://img.shields.io/badge/Zhihu-不器-0092f9?style=for-the-badge&logo=zhihu&logoColor=0092f9" title="Click to visit my Zhihu homepage" alt="Zhihu" />
   </a>
